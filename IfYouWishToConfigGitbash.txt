@@ -1,12 +1,12 @@
-Si on veut configurer le Gitbach
+if you want to configure the Gitbach
 
 https://www.udacity.com/course/viewer#!/c-ud775/l-2980038599/m-3341718587
 
 
-avec editeur sublime
+with editor sublime
 git config --global core.editor "'C:/Program Files/Sublime Text 2/sublime_text.exe' -n -w"
 
-avec Notepad++
+with Notepad++
 git config --global core.editor "'C:\Program Files\Notepad++.exe' -multiInst -nosession"
 
 
