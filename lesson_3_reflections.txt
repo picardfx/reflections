@@ -1,1 +1,5 @@
 When do you wish to create a new real repo for your devt?
+In a few weeks
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+as I m working on something
